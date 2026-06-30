@@ -12,8 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=nikki-nooka&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nikki-nooka&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-https://gitroll.io/profile/uxIDD2BhS6Odqerk4oAweVWhmxsC2
+<a href="https://gitroll.io/profile/uukqtsovVceSqcs3SDTPlj3dXv9c2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uukqtsovVceSqcs3SDTPlj3dXv9c2?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nikki-nooka&theme=radical&no-frame=true&no-bg=false&margin-w=4)
