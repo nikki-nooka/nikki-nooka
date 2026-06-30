@@ -14,6 +14,9 @@
 
 <a href="https://gitroll.io/profile/uukqtsovVceSqcs3SDTPlj3dXv9c2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uukqtsovVceSqcs3SDTPlj3dXv9c2?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
 
+<img width="1524" height="1200" alt="image" src="https://github.com/user-attachments/assets/bce00e04-a7dc-4c40-a638-1dc72814b98b" />
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nikki-nooka&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
